@@ -1,13 +1,13 @@
 <h1>Daman Games</h1>
+<p>Welcome to the Daman Games! Daman Games is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
 <section>
         <h2>Quick Access</h2>
         <ul>
-            <li><a href="https://damangames.one/login/" target="_blank">Login</a> - Already have an account? Log in to start playing.</li>
-            <li><a href="https://damangames.one/register/" target="_blank">Register</a> - New to Daman Games? Sign up to join our community.</li>
-            <li><a href="https://damangames.one/download/" target="_blank">Download App</a> - Take the excitement with you! Download the app for seamless mobile gaming.</li>
+            <li><a href="https://damangames.one/login/" target="_blank">Daman Game Login</a> - Already have an account? Log in to start playing.</li>
+            <li><a href="https://damangames.one/register/" target="_blank">Daman Game Register</a> - New to Daman Games? Sign up to join our community.</li>
+            <li><a href="https://damangames.one/download/" target="_blank">Daman App Download</a> - Take the excitement with you! Download the app for seamless mobile gaming.</li>
         </ul>
     </section>
-        <p>Welcome to the official website to download the Daman Games App! Daman Games is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
         
 <section>
         <h2>Daman Games Invitation Code – <strong>382757617365</strong></h2>
