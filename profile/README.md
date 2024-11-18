@@ -2,7 +2,7 @@
         <p>Welcome to the official website to download the Daman Games App! Daman Games is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
         
 <section>
-        <h2>Daman Games Invitation Code – <strong>QT8N52076993</strong></h2>
+        <h2>Daman Games Invitation Code – <strong>382757617365</strong></h2>
         <p><em>Get a Free ₹600 Bonus when you sign up with this code!</em></p>
     </section>
 <section>
@@ -14,13 +14,13 @@
         </ul>
     </section>
 
-    <section>
+<section>
         <h2>What Is Daman Games App?</h2>
         <p>Daman Games App is a unique app that allows players to make a quick profit by predicting colors like red, green, and purple. The correct prediction earns real cash prizes. It’s simple, fun, and accessible from anywhere with an internet connection and a smartphone.</p>
         <p>You can also earn money by recommending the app to friends and family, with extra rewards for successful referrals.</p>
     </section>
 
-    <section>
+<section>
         <h2>How to Download Daman Games App?</h2>
         <p>If you’re excited to start playing and making extra money, here’s how to download the Daman Games Apk:</p>
         <ul>
@@ -30,7 +30,7 @@
         </ul>
     </section>
 
-    <section>
+<section>
         <h2>How to Create an Account on Daman Games?</h2>
         <ol>
             <li>Download and open the app.</li>
@@ -40,7 +40,7 @@
         <p><a href="https://damangames.one/register/" target="_blank">Register Now</a> using referral code <strong>QT8N52076993</strong> to get started.</p>
     </section>
 
-    <section>
+<section>
         <h2>How to Add Money to Daman Games App?</h2>
         <ol>
             <li>Go to the wallet section and select "Recharge."</li>
@@ -50,7 +50,7 @@
         <p>Note: The minimum deposit amount is ₹100 or ₹200.</p>
     </section>
 
-    <section>
+<section>
         <h2>Earn Through Referral</h2>
         <p>Share your referral code with friends and family to earn ₹150 per successful referral. Follow these steps:</p>
         <ol>
@@ -60,7 +60,7 @@
         </ol>
     </section>
 
-    <section>
+ <section>
         <h2>How to Play Games in Daman App?</h2>
         <p>Once logged in, select a game and follow these steps:</p>
         <ol>
@@ -71,7 +71,7 @@
         <p>If you win, your profits will be 1.92x for colors and 9x for numbers. If you lose, the amount will be deducted from your account.</p>
     </section>
 
-    <section>
+<section>
         <h2>How to Withdraw Money?</h2>
         <ol>
             <li>Go to the "Withdraw" section in your profile.</li>
@@ -81,7 +81,7 @@
         <p>Note: The minimum withdrawal amount is ₹100.</p>
     </section>
 
-    <section>
+ <section>
         <h2>Types of Games in Daman Games App</h2>
         <ul>
             <li>Win Go</li>
@@ -93,7 +93,7 @@
         </ul>
     </section>
 
-    <section>
+ <section>
         <h2>Pros & Cons of Daman Games App</h2>
         <h3>Pros</h3>
         <ul>
@@ -111,7 +111,7 @@
         </ul>
     </section>
 
-    <footer>
+<footer>
         <p>&copy; 2024 Daman Games. All Rights Reserved.</p>
         <nav>
             <a href="#header">Home</a> | 
