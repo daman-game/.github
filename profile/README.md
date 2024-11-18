@@ -1,22 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Download Daman Games App and play 100+ popular games to win real money. Register now and claim your free ₹600 bonus!">
-    <title>Daman Games - Download App & Win Money</title>
-</head>
-<body>
-    <header>
-        <h1>Daman Games</h1>
+<h1>Daman Games</h1>
         <p>Welcome to the official website to download the Daman Games App! Daman Games is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
-
-    <section>
+        
+<section>
         <h2>Daman Games Invitation Code – <strong>QT8N52076993</strong></h2>
         <p><em>Get a Free ₹600 Bonus when you sign up with this code!</em></p>
     </section>
-
-    <section>
+<section>
         <h2>Quick Access</h2>
         <ul>
             <li><a href="https://damangames.one/login/" target="_blank">Login</a> - Already have an account? Log in to start playing.</li>
