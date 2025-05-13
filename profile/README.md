@@ -1,123 +1,63 @@
-<h1>Daman Games</h1>
-<section>
-        <h2>Quick Access</h2>
-        <h3><a href="https://gamelogin.in/daman-game/" target="_blank">Daman Game Login</a></h3>
-        <h3><a href="https://gamelogin.in/daman-game/" target="_blank">Daman Game Register</a></h3>
-        <h3><a href="https://gamelogin.in/daman-game/" target="_blank">Daman App Download</a></h3>
-    </section>
-<p>Welcome to the Daman Games! Daman Games is a dynamic online gaming platform offering over 100 engaging games, including Rummy, Poker, Color Prediction, and many others. With Daman Games, you can play, win, and even earn real money.</p>
-        
-<section>
-        <h2>Daman Games Invitation Code – <strong>382757617365</strong></h2>
-        <p><em>Get a Free ₹600 Bonus when you sign up with this code!</em></p>
-    </section>
+# Daman Game Login
 
-<section>
-        <h2>What Is Daman Games App?</h2>
-        <p>Daman Games App is a unique app that allows players to make a quick profit by predicting colors like red, green, and purple. The correct prediction earns real cash prizes. It’s simple, fun, and accessible from anywhere with an internet connection and a smartphone.</p>
-        <p>You can also earn money by recommending the app to friends and family, with extra rewards for successful referrals.</p>
-    </section>
+## Quick Access
+### [Daman Game Login](https://damanclub.in/#/register?invitationCode=382757617365)
+### [Daman Game Register](https://damanclub.in/#/register?invitationCode=382757617365)
+### [Daman Game Download](https://damanclub.in/#/register?invitationCode=382757617365)
 
-<section>
-        <h2>How to Download Daman Games App?</h2>
-        <p>If you’re excited to start playing and making extra money, here’s how to download the Daman Games Apk:</p>
-        <ul>
-            <li>You can download the app from the <a href="https://gamelogin.in/daman-game/" target="_blank">official site</a>.</li>
-            <li>Use the code <strong>382757617365</strong> during signup to get a bonus.</li>
-            <li>Note: The app is not yet available on the iOS App Store.</li>
-        </ul>
-    </section>
+# Daman Games 🎮
 
-<section>
-        <h2>How to Create an Account on Daman Games?</h2>
-        <ol>
-            <li>Download and open the app.</li>
-            <li>Choose the "Sign Up" option and provide your phone number, password, and referral code.</li>
-            <li>Click the "Register" button and verify your account using the OTP sent to your phone.</li>
-        </ol>
-        <p><a href="https://gamelogin.in/daman-game/" target="_blank">Register Now</a> using referral code <strong>382757617365</strong> to get started.</p>
-    </section>
+**Daman Games** is a leading Indian online gaming platform featuring games like Color Prediction, Rummy, Poker, Slots, Jili, JDB, Plinko, Limbo, and more. Play to win real cash and earn via referrals.
 
-<section>
-        <h2>How to Add Money to Daman Games App?</h2>
-        <ol>
-            <li>Go to the wallet section and select "Recharge."</li>
-            <li>Choose your payment method (UPI, Bank, or USDT) and enter the deposit amount.</li>
-            <li>Complete the payment process and start playing.</li>
-        </ol>
-        <p>Note: The minimum deposit amount is ₹100 or ₹200.</p>
-    </section>
+---
 
-<section>
-        <h2>Earn Through Referral</h2>
-        <p>Share your referral code with friends and family to earn ₹150 per successful referral. Follow these steps:</p>
-        <ol>
-            <li>Go to the "Promotion" section in your profile.</li>
-            <li>Copy your referral code and share it with others.</li>
-            <li>Earn rewards when someone downloads the app using your referral link.</li>
-        </ol>
-    </section>
+## 🎲 Game Categories
 
- <section>
-        <h2>How to Play Games in Daman App?</h2>
-        <p>Once logged in, select a game and follow these steps:</p>
-        <ol>
-            <li>Deposit money into your account.</li>
-            <li>Choose a time interval (e.g., 1, 5, 10, or 15 minutes).</li>
-            <li>Pick a color or number and place your bet.</li>
-        </ol>
-        <p>If you win, your profits will be 1.92x for colors and 9x for numbers. If you lose, the amount will be deducted from your account.</p>
-    </section>
+- **Color Prediction:** Guess the outcome and win.
+- **Card Games:** Includes Rummy & Poker.
+- **Casino Games:** Enjoy Plinko, Slots, Limbo, and more.
 
-<section>
-        <h2>How to Withdraw Money?</h2>
-        <ol>
-            <li>Go to the "Withdraw" section in your profile.</li>
-            <li>Enter your bank details, including name, account number, and IFSC code.</li>
-            <li>Enter the withdrawal amount and click "Submit."</li>
-        </ol>
-        <p>Note: The minimum withdrawal amount is ₹100.</p>
-    </section>
+---
 
- <section>
-        <h2>Types of Games in Daman Games App</h2>
-        <ul>
-            <li>Win Go</li>
-            <li>Trx Hash</li>
-            <li>5D Lotre</li>
-            <li>K3 Lotre</li>
-            <li>Slots</li>
-            <li>Sports Game</li>
-        </ul>
-    </section>
+## 🔐 How to Login
 
- <section>
-        <h2>Pros & Cons of Daman Games App</h2>
-        <h3>Pros</h3>
-        <ul>
-            <li>Easy signup process</li>
-            <li>Earn money through referrals</li>
-            <li>Diverse game selection</li>
-            <li>Low minimum withdrawal amount (₹100)</li>
-            <li>Secure platform</li>
-        </ul>
-        <h3>Cons</h3>
-        <ul>
-            <li>Not available for iOS users</li>
-            <li>High risk of losing money</li>
-            <li>Minimum deposit required</li>
-        </ul>
-    </section>
+1. Visit [damangames.one](https://damangames.one)
+2. Click **Login**
+3. Enter your registered mobile & password
+4. Hit **Login**
 
-<footer>
-        <p>&copy; 2024 Daman Games. All Rights Reserved.</p>
-        <nav>
-            <a href="#header">Home</a> | 
-            <a href="https://gamelogin.in/daman-game/" target="_blank">Login</a> | 
-            <a href="https://gamelogin.in/daman-game/" target="_blank">Register</a> | 
-            <a href="https://gamelogin.in/daman-game/" target="_blank">Download App</a> | 
-            <a href="#contact">Contact Us</a>
-        </nav>
-    </footer>
-</body>
-</html>
+---
+
+## 📝 How to Register
+
+1. Go to the [registration page](https://damangames.one)
+2. Fill in your details
+3. Use invite code `382757617365` (optional)
+4. Submit & verify with OTP
+
+---
+
+## 📲 How to Get the App
+
+**Option 1: Add to Desktop**
+- Log in, scroll to promotions, and tap **Add to Desktop**
+
+**Option 2: Download APK**
+1. Login and scroll to the bottom
+2. Tap **Download App**
+3. Allow unknown sources in settings
+4. Install the downloaded file
+
+---
+
+## 💰 Add Money
+
+1. Log in and go to **Wallet**
+2. Tap **Deposit**
+3. Enter amount and make payment
+4. Submit your UTR number
+5. Balance will reflect after verification
+
+---
+
+Enjoy gaming with **Daman Games** – where fun meets real rewards!
